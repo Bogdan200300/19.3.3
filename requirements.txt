@@ -1,0 +1,11 @@
+1  ?certifi==2023.7.22
+2  charset-normalizer==3.2.0
+3  colorama==0.4.6
+4  idna==3.4
+5  iniconfig==2.0.0
+6  packaging==23.1
+7  pluggy==1.2.0
+8  pytest==7.4.0
+9  python-dotenv==1.0.0
+10 requests==2.31.0
+11 urllib3==2.0.4
